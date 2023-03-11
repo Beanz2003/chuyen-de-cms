@@ -1,2 +1,6 @@
 Day la file cua week1
+<<<<<<< ours
 Thuoc brand week1 ma thoi
+=======
+Thuoc brand week1 va main
+>>>>>>> theirs
